@@ -1,0 +1,22 @@
+.headerTable td{
+    border-bottom: none !important;
+    color: white;
+    font-size: 1.09em;
+}
+.headerTable{
+    background-color: black;
+}
+
+.date{
+width: 20%;
+}
+
+.statnName{
+text-align: center !important;
+
+}
+
+.time{
+text-align: right !important;
+width: 20%;
+}

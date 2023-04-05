@@ -1,0 +1,17 @@
+.tableFooter {
+    text-align: center !important;
+    border-bottom: 0px !important;
+    color: white !important;
+    font-size: 34px !important;
+    padding: 16px 0px 16px 0px !important;
+}
+
+.footerTable {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+
+.footerRow {
+    background-color: black;
+}

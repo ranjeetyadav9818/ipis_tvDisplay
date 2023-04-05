@@ -1,0 +1,10 @@
+.coachDetailCard{
+    height: 28vh;
+    margin-top: 1%;
+    background-color: black !important;
+}
+.coachCard{
+    font-size: 20px !important;
+    font-weight: 600 !important;
+    text-align: center;
+}
